@@ -1,5 +1,5 @@
 Este es un proyecto de prueba de programación web
 
-Soy Weimar
+Soy Weimar y estoy resolviendo bugs
 
-Hola este es un documento experimental
+Este documento tiene bugs
